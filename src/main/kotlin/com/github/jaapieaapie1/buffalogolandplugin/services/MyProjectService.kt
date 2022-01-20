@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.jaapieaapie1.buffalogolandplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jaapieaapie1.buffalogolandplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
